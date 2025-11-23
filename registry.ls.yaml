@@ -1,0 +1,8 @@
+namespace: io.github.x-x404.lineart
+
+linked-objects-in-files:
+  "Line Art.blend": "Main"
+versions:
+  0.0.1:
+    tag: 0.0.1
+    release-file: lineart-0.0.1.zip
